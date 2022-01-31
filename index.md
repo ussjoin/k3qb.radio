@@ -14,11 +14,19 @@ My travel HF radio is a [Discovery TX-500](https://lab599.com/) that I use with 
 
 ### ARRL
 
-I'm an ARRL member, and have accepted an appointment as [ARRL Volunteer Counsel](http://www.arrl.org/locate-a-vc) for Washington (Northwest Division). I'm also barred in Montana, but only listed on their site under WA. I used to work with ARES teams all over the country, but I stopped working with Seattle ACS after [they demanded that all volunteers permanently waive attorney-client privilege](https://twitter.com/USSJoin/status/929468391504592897) as part of the Seattle Police Department's [extremely broad lawlessness](https://www.seattletimes.com/seattle-news/politics/seattle-police-improperly-faked-radio-chatter-about-proud-boys-as-chop-formed-in-2020-investigation-finds/).
+I'm an ARRL member, and have accepted an appointment as [ARRL Volunteer Counsel](http://www.arrl.org/locate-a-vc) for Washington (Northwest Division). I'm also barred in Montana, but only listed on their site under WA. 
+
+### ARES
+
+I used to work with ARES teams all over the country, but I stopped working with Seattle ACS after [they demanded that all volunteers permanently waive attorney-client privilege](https://twitter.com/USSJoin/status/929468391504592897) as part of the Seattle Police Department's [extremely broad lawlessness](https://www.seattletimes.com/seattle-news/politics/seattle-police-improperly-faked-radio-chatter-about-proud-boys-as-chop-formed-in-2020-investigation-finds/).
 
 ## Personal Bio
 
 My personal website is <https://ussjoin.com> which has my CV and full bio.
+
+## QSL Cards
+
+Did you receive a QSL card from me and want to know how I'm generating those labels? Check out <https://github.com/ussjoin/adif_to_qsl>.
 
 ## Contact
 
